@@ -14,6 +14,14 @@
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
     "mongodb": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "connect-flash": "*",
+    "express-validator": "*",
+    "express-session": "*",
+    "express-messages": "*",
+    "passport":"*",
+    "passport-local": "*",
+    "passport-http": "*",
+    "multer": "*"
   }
 }
